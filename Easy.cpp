@@ -6,7 +6,7 @@ using namespace std;
 Given an integer array nums where the elements are sorted in ascending order, convert it to a 
 height-balanced binary search tree.
 
-Time complexity: O(n) where n is the number or nodes
+Time complexity: O(n) where n is the number of nodes
 Space complexity: O(h) where h is the height of the tree
 */
 
