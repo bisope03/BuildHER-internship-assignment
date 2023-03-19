@@ -54,6 +54,5 @@ int main(){
     for(int num: result){
         cout << num << " ";
     }
-
     return 0;
 }
