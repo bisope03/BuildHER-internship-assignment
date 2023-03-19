@@ -1,6 +1,6 @@
 # BuildHER internship assignment
 
-This repository contains the solution to the BuildHER Internship assignment
+This assignment was given as part of the BuildHER Internship program, assigned by LoveLocal.
 
 ## Files
 `Easy.cpp`: Contains the solution for the following problem: <br>
