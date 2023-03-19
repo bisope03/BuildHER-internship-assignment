@@ -1,4 +1,4 @@
-# BuildHER internship assignment
+# BuildHER Internship assignment
 
 This assignment was given as part of the BuildHER Internship program, assigned by LoveLocal.
 
