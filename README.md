@@ -2,6 +2,8 @@
 
 This assignment was given as part of the BuildHER Internship program, assigned by LoveLocal.
 
+I have used C++ language to solve the problems.
+
 ## Files
 `Easy.cpp`: Contains the solution for the following problem: <br>
 Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only.
